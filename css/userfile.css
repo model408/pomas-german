@@ -472,7 +472,7 @@ nav.sidebar {
 
 .sidebar .menu {
   width: 100%;
-  margin-top: 80px;
+  margin-top: 60px;
 }
 
 .sidebar .menu .menu-item {
@@ -481,7 +481,7 @@ nav.sidebar {
   font-size: 16px;
   display: block;
   padding: 5px 30px;
-  line-height: 60px;
+  line-height: 50px;
 }
 
 .sidebar .menu .menu-item:hover {
